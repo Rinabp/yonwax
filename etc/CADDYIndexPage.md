@@ -26,6 +26,6 @@
   
 * [bongo.cat一只音乐的猫](https://github.com/Externalizable/bongo.cat/archive/master.zip) [演示](https://bongo.cat/)  
   
-* [3D CSS Stress](https://github.com/propjockey/DOMinion-build-demo/archive/master.zip) [演示](https://propjockey.github.io/DOMinion-build-demo/index.html)  
+* [3D CSS Stress](https://github.com/propjockey/DOMinion-build-demo/archive/master.zip) [演示](https://propjockey.github.io/DOMinion-build-demo/index.html)  >耗費內存，謹慎使用。
   
 * [css-sweeper 扫雷](https://github.com/propjockey/DOMinion-build-demo/archive/master.zip) [演示](https://propjockey.github.io/css-sweeper/)  
